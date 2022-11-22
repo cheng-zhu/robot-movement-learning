@@ -1,0 +1,2 @@
+# robot-movement-learning
+Apply artificial neural networks in PyTorch to help a small robot navigate a simulated environment without any collisions. The input of the network is data from five object sensors and one direction sensor, and the output is the probability of a collision. Hyperparameters of the network are tuned using a grid search to optimize the network. The accuracy of the model is over 99.9%.
